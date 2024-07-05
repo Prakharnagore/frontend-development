@@ -1,6 +1,6 @@
 # Communicatoin Protocols
 
-![Communication Protocols](./images/communication-protocols.gif)
+![Communication Protocols](../images/communication-protocols.gif)
 
 1. HTTP - Hypertext Transfer Protocol
 2. HTTP/3 -
